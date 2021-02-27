@@ -1,0 +1,4 @@
+*.pdf
+*.qif
+venv
+.vscode
